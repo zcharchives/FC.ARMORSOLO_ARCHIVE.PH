@@ -8,7 +8,7 @@ location,Location,true
 latitude,Latitude,true
 longitude,Longitude,true
 source,Source,true
-identifier,Source Identifier,,true
+identifier,Source Identifier,,
 type,Type,
 format,Format,
 rights,Rights,
