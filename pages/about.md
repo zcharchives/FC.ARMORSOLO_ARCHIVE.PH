@@ -10,18 +10,26 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About the About Page;Credits" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This archive celebrates the life and masterpieces of Fernando Amorsolo, one of the most influential artists in Philippine history.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Known as the **“Grand Old Man of Philippine Art”**, Amorsolo captured the *beauty of Filipino culture through luminous landscapes, rural scenes, portraits, and historical paintings.* His works are admired for their warm lighting, detailed craftsmanship, and romantic portrayal of everyday Filipino life.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+The collection highlights Amorsolo’s artistic legacy and his contribution to shaping Filipino identity through art. From idyllic countryside scenes to significant historical moments, each artwork reflects his deep appreciation for tradition, resilience, and national pride. This archive serves as both a tribute and a resource for appreciating the enduring impact of his vision on Philippine art and culture
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+ABOUT THE PAGE
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
+This website serves as a digital archive dedicated to the life and artworks of Fernando Amorsolo, one of the most celebrated Filipino painters and the first National Artist of the Philippines for Visual Arts.
+
+The archive was created to preserve, organize, and showcase Amorsolo’s masterpieces, artistic journey, and contribution to Philippine culture and identity. Through this platform, visitors can explore collections of his paintings, learn about the historical and cultural context behind his works, and appreciate his signature use of light, rural landscapes, and depictions of Filipino life.
+
+This page aims to make art and history more accessible to students, researchers, art enthusiasts, and future generations by providing a centralized and informative digital collection of Amorsolo’s legacy.
+
+CREDITS 
+
+This database was created by Ciallina Punzalan, Hailia Sawyer, and Zean Unabia in partial fulfillment of the requirements for ARTOO3: Arts Appreciation (2nd Semester, AY 2025-2026) under the guidance of Prof. Adrian Mendizabal. 
+
 {% include cb/about_the_about.md %} 
